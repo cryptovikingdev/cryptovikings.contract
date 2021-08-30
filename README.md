@@ -1,2 +1,2 @@
 # cryptovikings.contract
-Official contract for cryptovikings.com
+This is the official contract for https://cryptovikings.com
